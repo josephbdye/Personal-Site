@@ -1,0 +1,10 @@
+/* nav styling */
+
+.name  {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navbar  {
+    display: flex;
+}
